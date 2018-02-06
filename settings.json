@@ -1,7 +1,14 @@
 ﻿{
   
   "port": 5005,
-  "securePort": 5006
+  "securePort": 5006,
 
+  "spotify": {
+      "clientId": "e6ebb7f5c7f4477d84f66edfa86e3641",
+      "clientSecret": "a9d76960d9054ce0ae182cfa88668e4a",
+  },
+
+  "voicerss": "522fad23d2604f1b950e29c1041a3f30"
+  
 }
     
