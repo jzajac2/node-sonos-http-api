@@ -1040,3 +1040,13 @@ https://github.com/cjrpaterson/sonos-cron
 A Node server to receive notifications from node-sonos-http-api and push them via socket.io to the clients. 
 https://github.com/TimoKorinth/sonos-push-server
 
+port forwarding setup:
+service name: 
+  myechosonos-{dev|test|prod}
+	Source Target: leave empty
+	Port Range: 5005
+	Local IP: (see static IP configs LAN on router)
+	Local Port: 5005
+	Protocol: Both. (probably could just use UDP since it's sonos music/streaming data)
+
+
