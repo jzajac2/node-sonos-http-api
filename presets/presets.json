@@ -1,0 +1,16 @@
+{
+   "rap": {
+      "players": [
+        { "roomName": "Master Bathroom", "volume": 30},
+        { "roomName": "Master Bedroom", "volume": 30},
+        { "roomName": "Kitchen", "volume": 30},
+        { "roomName": "Office", "volume": 40},
+        { "roomName": "TV Room", "volume": 50}
+      ],
+      "state": "PLAYING",
+      "favorite": "atmospheric calm",
+      "uri": "x-rincon-stream:RINCON_0000000000001500",
+      "playMode": "SHUFFLE",
+      "pauseOthers": true
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "all": {
+      "playMode": {
+        "shuffle": true
+      },
+      "players": [
+        {
+          "roomName": "Master Bathroom",
+          "volume": 10
+        },
+        {
+          "roomName": "Kitchen",
+          "volume": 10
+        },
+        {
+          "roomName": "Office",
+          "volume": 10
+        },
+        {
+          "roomName": "Master Bedroom",
+          "volume": 10
+        },
+        {
+          "roomName": "TV Room",
+          "volume": 15
+        }
+      ],
+      "pauseOthers": true
+    },
+    "tv": {
+      "players": [
+        {
+          "roomName": "TVRoom",
+          "volume": 20
+        }
+      ],
+      "pauseOthers": true,
+      "uri": "x-rincon-stream:RINCON_B8E9379B2F3E01400"
+    }
+  }

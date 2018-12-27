@@ -1,0 +1,10 @@
+{
+    "players": [
+      {
+        "roomName": "TV Room",
+        "volume": 50
+      }
+    ],
+    "pauseOthers": true,
+      "uri": "x-rincon-stream:RINCON_B8E9379B2F3E01400"  
+  }

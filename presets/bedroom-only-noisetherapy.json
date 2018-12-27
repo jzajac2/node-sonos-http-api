@@ -1,0 +1,27 @@
+{
+      "favorite": "Noise Therapy",
+      "playMode": "REPEAT",
+      "players": [
+        {
+          "roomName": "Master Bathroom",
+          "volume": 0
+        },
+        {
+          "roomName": "Master Bedroom",
+          "volume": 30
+        },
+        {
+          "roomName": "Kitchen",
+          "volume": 0
+        },
+        {
+          "roomName": "Office",
+          "volume": 0
+        },
+        {
+          "roomName": "TV Room",
+          "volume": 0
+        }
+      ],
+      "pauseOthers": true
+    }
