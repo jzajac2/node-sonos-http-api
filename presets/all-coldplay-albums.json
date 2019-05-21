@@ -1,0 +1,29 @@
+ {
+  "favorite": "All Coldplay Albums",
+  "players": [
+    {
+      "roomName": "Master Bathroom",
+      "volume": 40
+    },
+    {
+      "roomName": "Master Bedroom",
+      "volume": 40
+    },
+    {
+      "roomName": "Kitchen",
+      "volume": 40
+    },
+    {
+      "roomName": "Office",
+      "volume": 40
+    },
+    {
+      "roomName": "TV Room",
+      "volume": 40
+    }
+  ],
+  "pauseOthers": true,
+  "playMode": {
+    "shuffle": true
+  }
+}
