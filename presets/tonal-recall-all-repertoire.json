@@ -1,29 +1,26 @@
  {
-  "favorite": "Depeche Mode",
+  "favorite": "Tonal Recall All Repertoire",
   "players": [
     {
       "roomName": "Master Bathroom",
-      "volume": 40
+      "volume": 30
     },
     {
       "roomName": "Master Bedroom",
-      "volume": 40
+      "volume": 30
     },
     {
       "roomName": "Kitchen",
-      "volume": 40
+      "volume": 30
     },
     {
       "roomName": "Office",
-      "volume": 40
+      "volume": 30
     },
     {
       "roomName": "TV Room",
-      "volume": 40
+      "volume": 30
     }
   ],
-  "pauseOthers": true,
-  "playMode": {
-    "shuffle": true
-  }
+  "pauseOthers": true
 }
