@@ -500,10 +500,10 @@ Example:
 
 Supported voices are:
 
-Hoda, Hedda, Stefan, Catherine, Linda, Susan, George, Ravi, ZiraRUS, BenjaminRUS, Laura, Pablo, Raul, Caroline, Julie, Paul, Cosimo, Ayumi, Ichiro, Daniel, Irina, Pavel, HuihuiRUS, Yaoyao, Kangkang, Tracy, Danny, Yating, Zhiwei
+ Hoda, Naayf, Ivan, HerenaRUS, Jakub, Vit, HelleRUS, Michael, Karsten, Hedda, Stefan, Catherine, Linda, Susan, George, Ravi, ZiraRUS, BenjaminRUS, Laura, Pablo, Raul, Caroline, Julie, Paul, Cosimo, Ayumi, Ichiro, Daniel, Irina, Pavel, HuihuiRUS, Yaoyao, Kangkang, Tracy, Danny, Yating, Zhiwei
 
 See https://www.microsoft.com/cognitive-services/en-us/speech-api/documentation/API-Reference-REST/BingVoiceOutput#SupLocales to identify
-which language and gender it maps against.
+which language and gender it maps against. If your desired voice is not in the list of supported one, raise an issue about adding it or send me a PR.
 
 #### AWS Polly
 
@@ -872,6 +872,12 @@ Will set and start playing given Station id
 Will set without start playing given Station id
 ```
 
+For example to play Radio 6 Music - [tunein.com/radio/s44491](https://tunein.com/radio/s44491)
+
+```
+/RoomName/tunein/play/44491
+note the droping of the 's' in 's44491'
+```
 
 Music Search and Play
 ----------------------
@@ -1019,6 +1025,11 @@ If port 3500 is occupied while trying to bind it, it will try using 3501, 3502, 
 
 Amazon Alexa voice layer on top of the amazing NodeJS component
 https://github.com/hypermoose/AlexaForSonos
+
+**Echo Sonos (Alexa Skills)**
+
+Amazon Echo integration with Sonos
+https://github.com/rgraciano/echo-sonos
 
 **JukeBot (Ruby)**
 
