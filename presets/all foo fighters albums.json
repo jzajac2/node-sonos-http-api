@@ -22,5 +22,8 @@
       "volume": 30
     }
   ],
-  "pauseOthers": true
+  "pauseOthers": true,
+  "playMode": {
+    "shuffle": true
+  }
 }

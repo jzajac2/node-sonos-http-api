@@ -24,6 +24,6 @@
   ],
   "pauseOthers": true,
   "playMode": {
-    "shuffle": true
+    "shuffle": false 
   }
 }
