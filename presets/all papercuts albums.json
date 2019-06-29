@@ -1,5 +1,5 @@
  {
-  "favorite": "All Coldplay Albums",
+  "favorite": "All Papercuts Albums",
   "players": [
     {
       "roomName": "Master Bathroom",
@@ -24,6 +24,6 @@
   ],
   "pauseOthers": true,
   "playMode": {
-    "shuffle": true
+    "shuffle": false 
   }
 }

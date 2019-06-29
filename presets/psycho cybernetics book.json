@@ -1,0 +1,29 @@
+{
+    "favorite": "psycho cybernetics book",
+    "players": [
+        {
+            "roomName": "Master Bathroom",
+            "volume": 30
+        },
+        {
+            "roomName": "Master Bedroom",
+            "volume": 30
+        },
+        {
+            "roomName": "Kitchen",
+            "volume": 30
+        },
+        {
+            "roomName": "Office",
+            "volume": 30
+        },
+        {
+            "roomName": "TV Room",
+            "volume": 30
+        }
+    ],
+    "pauseOthers": true,
+    "playMode": {
+        "shuffle": false
+    }
+}

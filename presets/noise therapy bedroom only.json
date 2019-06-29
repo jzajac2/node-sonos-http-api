@@ -1,9 +1,10 @@
- {
-  "favorite": "All Duran Duran Albums",
+{
+  "favorite": "Noise Therapy Bedroom Only",
+  "playMode": "REPEAT",
   "players": [
     {
       "roomName": "Master Bathroom",
-      "volume": 30
+      "volume": 0
     },
     {
       "roomName": "Master Bedroom",
@@ -11,19 +12,16 @@
     },
     {
       "roomName": "Kitchen",
-      "volume": 30
+      "volume": 0
     },
     {
       "roomName": "Office",
-      "volume": 30
+      "volume": 0
     },
     {
       "roomName": "TV Room",
-      "volume": 30
+      "volume": 0
     }
   ],
-  "pauseOthers": true,
-  "playMode": {
-    "shuffle": true
-  }
+  "pauseOthers": true
 }
