@@ -19,7 +19,7 @@
         },
         {
             "roomName": "TV Room",
-            "volume": 30
+            "volume": 50
         }
     ],
     "pauseOthers": true

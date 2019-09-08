@@ -1,5 +1,5 @@
  {
-  "favorite": "all the monkees albums",
+  "favorite": "Toms Band All Repertoire",
   "players": [
     {
       "roomName": "Master Bathroom",
@@ -22,8 +22,5 @@
       "volume": 50
     }
   ],
-  "pauseOthers": true,
-  "playMode": {
-    "shuffle": true
-  }
+  "pauseOthers": true
 }
