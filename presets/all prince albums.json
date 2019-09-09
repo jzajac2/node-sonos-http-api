@@ -1,5 +1,5 @@
  {
-  "favorite": "All Radiohead Albums",
+  "favorite": "All Prince Albums",
   "players": [
     {
       "roomName": "Master Bathroom",
@@ -19,7 +19,7 @@
     },
     {
       "roomName": "TV Room",
-      "volume": 50
+      "volume": 30
     }
   ],
   "pauseOthers": true,
