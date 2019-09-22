@@ -16,7 +16,6 @@ set -x
 
 set +u
 
-# APP_SVR=pi@192.168.1.25
 APP_DIR_SVR=/home/pi/code/node-sonos-http-api
 APP_DIR_LOCAL=.
 
