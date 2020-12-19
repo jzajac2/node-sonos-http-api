@@ -1,4 +1,4 @@
- {
+{
   "favorite": "Solo Acoustic Learning",
   "players": [
     {
@@ -14,6 +14,10 @@
       "volume": 30
     },
     {
+      "roomName": "MoveKitchen",
+      "volume": 30
+    },
+    {
       "roomName": "Office",
       "volume": 30
     },
@@ -24,6 +28,6 @@
   ],
   "pauseOthers": true,
   "playMode": {
-    "shuffle": true 
+    "shuffle": true
   }
 }

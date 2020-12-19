@@ -1,26 +1,30 @@
 {
-    "players": [
-      {
-        "roomName": "Master Bathroom",
-        "volume": 30
-      },
-      {
-        "roomName": "Kitchen",
-        "volume": 30
-      },
-      {
-        "roomName": "Office",
-        "volume": 50
-      },
-      {
-        "roomName": "Master Bedroom",
-        "volume": 30
-      },
-      {
-        "roomName": "TV Room",
-        "volume": 30
-      }
-    ],
-    "pauseOthers": false,
-      "uri": "x-rincon-stream:RINCON_B8E9372FE85201400"  
-  }
+  "players": [
+    {
+      "roomName": "Master Bathroom",
+      "volume": 30
+    },
+    {
+      "roomName": "Kitchen",
+      "volume": 30
+    },
+    {
+      "roomName": "Office",
+      "volume": 50
+    },
+    {
+      "roomName": "MoveKitchen",
+      "volume": 30
+    },
+    {
+      "roomName": "Master Bedroom",
+      "volume": 30
+    },
+    {
+      "roomName": "TV Room",
+      "volume": 30
+    }
+  ],
+  "pauseOthers": false,
+  "uri": "x-rincon-stream:RINCON_B8E9372FE85201400"
+}

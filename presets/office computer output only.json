@@ -13,6 +13,10 @@
       "volume": 50
     },
     {
+      "roomName": "MoveKitchen",
+      "volume": 30
+    },
+    {
       "roomName": "Master Bedroom",
       "volume": 0
     },
@@ -22,5 +26,5 @@
     }
   ],
   "pauseOthers": false,
-    "uri": "x-rincon-stream:RINCON_B8E9372FE85201400"  
+  "uri": "x-rincon-stream:RINCON_B8E9372FE85201400"
 }
