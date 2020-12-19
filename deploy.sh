@@ -8,7 +8,7 @@ elif [ "$1" == "production" ]; then
     APP_SVR=pi@192.168.50.96
 else
   # Default to development
-  APP_SVR=pi@192.168.50.97
+  APP_SVR=pi@192.168.50.96
 fi
 
 set -eu
@@ -23,5 +23,6 @@ APP_DIR_LOCAL=.
 #mkdir -p $(dirname $APP_DIR_SVR)
 
 rsync --archive --verbose --delete --exclude 'bundle/' --exclude 'node_modules/' $APP_DIR_LOCAL $APP_SVR:$APP_DIR_SVR
+#rsync --archive --verbose --exclude 'bundle/' --exclude 'node_modules/' $APP_DIR_LOCAL $APP_SVR:$APP_DIR_SVR
 
 # Note: this is spun up on a systemd service and should hot load

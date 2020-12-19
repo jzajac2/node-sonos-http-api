@@ -1,27 +1,31 @@
 {
-      "favorite": "Sleep Music Bedroom Only",
-      "playMode": "REPEAT",
-      "players": [
-        {
-          "roomName": "Master Bathroom",
-          "volume": 0
-        },
-        {
-          "roomName": "Master Bedroom",
-          "volume": 30
-        },
-        {
-          "roomName": "Kitchen",
-          "volume": 0
-        },
-        {
-          "roomName": "Office",
-          "volume": 0
-        },
-        {
-          "roomName": "TV Room",
-          "volume": 0
-        }
-      ],
-      "pauseOthers": true
+  "favorite": "Sleep Music Bedroom Only",
+  "playMode": "REPEAT",
+  "players": [
+    {
+      "roomName": "Master Bathroom",
+      "volume": 0
+    },
+    {
+      "roomName": "Master Bedroom",
+      "volume": 30
+    },
+    {
+      "roomName": "Kitchen",
+      "volume": 0
+    },
+    {
+      "roomName": "MoveKitchen",
+      "volume": 30
+    },
+    {
+      "roomName": "Office",
+      "volume": 0
+    },
+    {
+      "roomName": "TV Room",
+      "volume": 0
     }
+  ],
+  "pauseOthers": true
+}

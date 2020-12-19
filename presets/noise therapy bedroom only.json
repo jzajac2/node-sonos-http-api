@@ -15,6 +15,10 @@
       "volume": 0
     },
     {
+      "roomName": "MoveKitchen",
+      "volume": 30
+    },
+    {
       "roomName": "Office",
       "volume": 0
     },

@@ -1,4 +1,4 @@
- {
+{
   "favorite": "Piano Learning",
   "players": [
     {
@@ -11,6 +11,10 @@
     },
     {
       "roomName": "Kitchen",
+      "volume": 30
+    },
+    {
+      "roomName": "MoveKitchen",
       "volume": 30
     },
     {
